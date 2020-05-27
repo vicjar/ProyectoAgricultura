@@ -14,12 +14,8 @@ _Evitar tratar de 2 cosas a la vez, ponerlos en lista de pendiente y todo requie
 
 _Coding ... Testing (Buffer ... Working), no sobre pasar trabajo a otros colegas._
 
-# **ACTIVIDAD** https://es.wikipedia.org/wiki/Kanban_(desarrollo) http://leansoftwareengineering.com/ksse/scrum-ban/
+
 
 ## Kanban para Desarrollo de Software recomendable es: Backlog ---- Development ---- Testing ---- Production ---- Ready
 
-Referencias: 
 
-https://leanandkanban.files.wordpress.com/2009/04/kanban-for-software-engineering-apr-242.pdf
-
-https://www.tutorialspoint.com/kanban/kanban_tutorial.pdf https://www.getapp.com/project-management-planning-software/
