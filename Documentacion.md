@@ -40,9 +40,52 @@ setenta por ciento para proporcionar una producción de alimentos suficiente par
 el rápido crecimiento de la población y la urbanización. La esperada
 el crecimiento de la población mundial para la mitad del presente siglo
 es desalentador. Sin embargo, dependiendo de la estimación, podría
-se espera que supere los 9.000 millones de personas a mediados de siglo. Como muchos estudios informaron de que la población está aumentando muy rápidamente, la población mundial era de mil millones en 1800,
+se espera que supere los 9.000 millones de personas a mediados de siglo. 
 
 ![](https://elholandespicante.com/wp-content/uploads/2016/10/diagrama-de-funcion-aeroponia-sistema-2.png)
+
+Como muchos estudios informaron de que la población está aumentando muy rápidamente, la población mundial era de mil millones en 1800,y aumentó a siete mil millones de personas en 2012. Sin embargo,
+los estudios reportan que se teme que a finales del siglo actual,
+se podría esperar que llegara a once mil millones de personas y allí
+podrían ser muchas, muchas más bocas que alimentar pronto. Por lo tanto, el
+rápido aumento de la población, junto con la disminución de
+tierras agrícolas, la intensificación de los cambios climáticos mundiales,
+y la exacerbación de los recursos hídricos, disminuye la fuerza de trabajo
+y las crisis de energía están planteando enormes desafíos y
+obstáculos al sector agrícola [5, 6]. Además, el
+Los países en desarrollo y desarrollados se enfrentarán a importantes
+crisis y problemas de agua debido a la rápida urbanización e industrialización. El agua dulce disponible para la agricultura de regadío
+se supone que la tierra disminuirá en el futuro [7, 8]. Además, el
+Los cambios climáticos impredecibles incluyen condiciones climáticas extremas, tormentas intensas, olas de calor, e inundaciones tendrán un
+un efecto adverso sustancial en el sector agrícola mundial. Nosotros
+necesitan más producción de los sistemas agrícolas para cumplir
+las crecientes demandas de alimentos. De lo contrario, sufriremos de
+problemas de inseguridad alimentaria que será la mayor amenaza.
+Además, Qiu y sus compañeros de trabajo [9] revelaron que el progreso
+de la producción agrícola no sólo es importante para
+producir alimentos para alimentar a la población, pero también es esencial
+para el sector industrial. Del mismo modo, la agricultura es la principal
+fuente para producir la materia prima para muchos sectores industriales. Por lo tanto, debe entenderse que la industria y
+Los desarrollos agrícolas no son alternativas. Sin embargo,
+ambos sectores son complementarios entre sí en el camino
+para lograr las cuestiones de seguridad alimentaria.
+Como la evolución de la humanidad desde los cazadores y recolectores a las sociedades agrarias, los esfuerzos se han centrado principalmente
+sobre la mejora del rendimiento y la productividad de las plantas, ya sea
+cambios genéticos, culturales o de cría, prácticas de gestión, o mediante el desarrollo e introducción de la protección vegetal
+medidas. Por consiguiente, en el siglo pasado y el presente,
+los pueblos han comenzado a explorar las posibilidades adoptando
+diferentes técnicas modernas en la agricultura. La adopción
+de los métodos de agricultura de precisión en la agricultura es uno de los
+los excelentes ejemplos. El propósito es tratar de mecanizarlos en la agricultura para evitar las pérdidas de cultivos debido a
+cambios climáticos repentinos, enfermedades transmitidas por el suelo, ataques de plagas,
+y así sucesivamente. Sin embargo, muchos estudios de investigación han sido
+sugería e informaba que los problemas y desafíos de
+la agricultura podría superarse adoptando los métodos de la agricultura de precisión. En la actualidad, varios países están aumentando
+sus productividades agrícolas mediante la aplicación de la precisión
+los métodos de cultivo.
+
+
+
 
 # REFERENCIAS
 
@@ -61,3 +104,23 @@ Water, vol. 8, no. 2, p. 34, 2016.
 [4] W. Foote, To Feed the World in 2050, We Need to View
 Small-Scale Farming as a Business, Skoll World Forum,
 Oxford, UK, 2015.
+
+[5] V. Doknić, Internet of Things Greenhouse Monitoring and
+Automation System. Internet of Things: Smart Devices, Processes, Services, 2014, http://193.40.244.77/idu0330/wpcon
+tent/uploads/2015/09/140605_Internet-of-Things_VesnaDoknic.pdf.
+
+[6] D. K. Großkinsky, J. Svensgaard, S. Christensen, and
+T. Roitsch, “Plant phenomics and the need for physiological
+phenotyping across scales to narrow the genotype-tophenotype knowledge gap,” Journal of Experimental Botany,
+vol. 66, no. 18, pp. 5429–5440, 2015.
+
+[7] E. Playán and L. Mateos, “Modernization and optimization of
+irrigation systems to increase water productivity,” Agricultural Water Management, vol. 80, no. 1-3, pp. 100–116, 2006.
+
+[8] L. Levidow, D. Zaccaria, R. Maia, E. Vivas, M. Todorovic, and
+A. Scardigno, “Improving water-efficient irrigation: prospects
+and difficulties of innovative practices,” Agricultural Water
+Management, vol. 146, pp. 84–94, 2014.
+
+[9] R. Qiu, S. Wei, M. Zhang et al., “Sensors for measuring plant
+phenotyping: a review,” International Journal of Agricultural
