@@ -1,4 +1,5 @@
-# INTRODUCCION
+# INTRODUCCION 
+# ¿Qué es un tablero Kanban? 
 
 En los últimos años, las técnicas de sensores inteligentes han logrado una atención significativa en la agricultura. Se aplica en la agricultura para planificar la
 varias actividades y misiones de forma adecuada utilizando recursos limitados con una pequeña interferencia humana. Actualmente, el cultivo de plantas
