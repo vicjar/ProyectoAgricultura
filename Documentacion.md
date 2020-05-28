@@ -44,3 +44,20 @@ se espera que supere los 9.000 millones de personas a mediados de siglo. Como mu
 
 ![](https://elholandespicante.com/wp-content/uploads/2016/10/diagrama-de-funcion-aeroponia-sistema-2.png)
 
+# REFERENCIAS
+
+[1] J. James and M. P. Maheshwar, “Plant growth monitoring
+system, with dynamic user-interface,” in 2016 IEEE Region
+10 Humanitarian Technology Conference (R10-HTC), pp. 1–
+5, Agra, India, December 2016.
+
+[2] D. Pimentel, B. Berger, D. Filiberto et al., “Water resources:
+agricultural and environmental issues,” Bioscience, vol. 54,
+no. 10, pp. 909–918, 2004.
+
+[3] M. Taher Kahil, J. Albiac, A. Dinar et al., “Improving the performance of water policies: evidence from drought in Spain,”
+Water, vol. 8, no. 2, p. 34, 2016.
+
+[4] W. Foote, To Feed the World in 2050, We Need to View
+Small-Scale Farming as a Business, Skoll World Forum,
+Oxford, UK, 2015.
