@@ -65,7 +65,9 @@ Además, Qiu y sus compañeros de trabajo [9] revelaron que el progreso
 de la producción agrícola no sólo es importante para
 producir alimentos para alimentar a la población, pero también es esencial
 para el sector industrial. Del mismo modo, la agricultura es la principal
-fuente para producir la materia prima para muchos sectores industriales. Por lo tanto, debe entenderse que la industria y
+fuente para producir la materia prima para muchos sectores industriales. 
+
+Por lo tanto, debe entenderse que la industria y
 Los desarrollos agrícolas no son alternativas. Sin embargo,
 ambos sectores son complementarios entre sí en el camino
 para lograr las cuestiones de seguridad alimentaria.
