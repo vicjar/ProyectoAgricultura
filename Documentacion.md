@@ -5,7 +5,9 @@ varias actividades y misiones de forma adecuada utilizando recursos limitados co
 El uso de nuevos métodos de agricultura es muy popular entre los cultivadores. Sin embargo, la aeroponía es uno de los métodos de los modernos
 la agricultura, que se practica comúnmente en todo el mundo. En el sistema, la planta se cultiva bajo condiciones de control total en
 la cámara de crecimiento proporcionando una pequeña neblina de la solución de nutrientes en sustitución del suelo. La niebla de nutrientes es expulsada
-a través de boquillas de atomización en forma periódica. Durante el cultivo de la planta, varios pasos incluyendo la temperatura, la humedad,
+a través de boquillas de atomización en forma periódica.
+
+Durante el cultivo de la planta, varios pasos incluyendo la temperatura, la humedad,
 intensidad de la luz, nivel de la solución de nutrientes del agua, pH y valor de EC, concentración de CO2, tiempo de atomización e intervalo de atomización
 tiempo requieren una atención adecuada para el floreciente crecimiento de las plantas. Por lo tanto, el objeto de este estudio de revisión fue proporcionar una significativa
 conocimientos sobre la detección y el diagnóstico temprano de fallos en la aeroponía mediante técnicas inteligentes (sensores inalámbricos). Así, el granjero
