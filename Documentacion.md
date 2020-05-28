@@ -1,5 +1,4 @@
-# INTRODUCCION 
-# ¿Qué es un tablero Kanban? 
+# Sistemas de vigilancia y control en la agricultura mediante técnicas de sensores inteligentes
 
 En los últimos años, las técnicas de sensores inteligentes han logrado una atención significativa en la agricultura. Se aplica en la agricultura para planificar la
 varias actividades y misiones de forma adecuada utilizando recursos limitados con una pequeña interferencia humana. Actualmente, el cultivo de plantas
@@ -16,4 +15,8 @@ proporciona una mayor comprensión de cómo los parámetros clave de la aeropon�
 control total del sistema, no por la constante atención manual del operador, sino en gran medida por los sensores inalámbricos.
 Además, la adopción de las técnicas inteligentes en el sistema aeropónico podría reducir el concepto de la utilidad de
 el sistema debido al complicado proceso de supervisión y control manual.
+
+# INTRODUCCION 
+
+
 
