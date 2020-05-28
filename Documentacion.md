@@ -16,6 +16,7 @@ control total del sistema, no por la constante atención manual del operador, si
 Además, la adopción de las técnicas inteligentes en el sistema aeropónico podría reducir el concepto de la utilidad de
 el sistema debido al complicado proceso de supervisión y control manual.
 
+
 # INTRODUCCION 
 
 
