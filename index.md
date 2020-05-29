@@ -83,7 +83,7 @@ Indice
          <li><a href="#subindice7">1.7 Sensor de pH y CE</a><li>
    </ul>
   </li>
-    <li><a href=#Rerencias>Referencias</a></li>
+    <li><a href=#Referencias>Referencias</a></li>
   </li>
  </ul>
 </div>
