@@ -63,15 +63,15 @@ Indice
 <ul class="idc-lista">
  <li><a href="#Portada">1 Portada</a>
 <ul>
-   <li><a href="#subindice1">1.1 Sistema de Vigilancia 1</a><li>
+   <li><a href="#subindice1">1.1 Sistema de Vigilancia</a><li>
    <li><a href="#subindice2">1.2 Introduccion</a><li>
-</ul>
-</li
+  </ul>
+ </li>
 </div>
 
+
+
 <h6 id="Subindice1.1">Subindice 1.1</h6>
-
-
 # Sistemas de vigilancia y control en la agricultura mediante técnicas de sensores inteligentes
 
 En los últimos años, las técnicas de sensores inteligentes han logrado una atención significativa en la agricultura. Se aplica en la agricultura para planificar la
