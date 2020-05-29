@@ -1,43 +1,63 @@
-![](https://tijuana.tecnm.mx/wp-content/uploads/2018/07/logo_ITT1.png)
-
-# TECNOLÓGICO NACIONAL DE MÉXICO
-
-### INSTITUTO TECNOLÓGICO DE TIJUANA
-
-#### SUBDIRECCIÓN ACADÉMICA DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN  
-Semestre: Febrero 2020
-
-##### CARRERA
-
-Ingeniería en Sistemas Computacionales
-
-##### MATERIA
-
-Sistemas Programables
-
-##### TÍTULO
-
+<a name="Portada"></a>
+<p align="center">
+  <img src="https://tijuana.tecnm.mx/wp-content/uploads/2018/07/logo_ITT1.png">
+</p>
+<h1 align="center">TECNOLÓGICO NACIONAL DE MÉXICO</h1>
+<h3 align="center">INSTITUTO TECNOLÓGICO DE TIJUANA</h3>
+<h4 align="center">
+SUBDIRECCIÓN ACADÉMICA
+DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
+<br>Semestre: Febrero 2020
+</h4>
+<h5 align="center">
+CARRERA
+</h5>
+<p align="center">
+Ingeniería en Sistemas Computacionales 
+</p>
+<h5 align="center">
+MATERIA 
+</h5>
+<p align="center"> 
+Sistemas Programables 
+</p>  
+<h5 align="center">         
+TÍTULO
+</h5>
+<p align="center">         
 Proyecto de cierre
-
-##### UNIDAD
-
+</p>
+<h5 align="center">
+UNIDAD 
+</h5>
+<p align="center">
 IV
+</p>
 
-##### ALUMNO Y NO. DE CONTROL
-
+<h5 align="center">
+ALUMNO Y NO. DE CONTROL
+</h5>
+<p align="center">
 Victor Jair Aulis Sanchez 17212836
-
+</p>
+<p align="center">
 García Rincon Daniel Gerardo 16212002
-
+</p>
+<p align="center">
 Aceves Zamora Juan Antonio 16210502
-
+</p>
+<p align="center">
 Hernandez Gambino Kevin Josafat 17211049
-
+</p>
+<p align="center">
 Velarde Alvarez Luis Rafael 16212371
-
-##### MAESTRO
-
+</p>
+<h5 align="center">
+MAESTRO
+</h5>
+<p align="center">
 Rene Solis Reyes
+
 
 
 # Sistemas de vigilancia y control en la agricultura mediante técnicas de sensores inteligentes
