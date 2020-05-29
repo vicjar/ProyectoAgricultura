@@ -100,7 +100,7 @@ el sistema debido al complicado proceso de supervisión y control manual.
 
 
 
-<h7 id="subindice1.2">1.2</h7>
+<a name="subindice1.2"></a7>
 
 # INTRODUCCION 
 
