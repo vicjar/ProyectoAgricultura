@@ -57,14 +57,14 @@ MAESTRO
 <p align="center">
 Rene Solis Reyes
 
-#Indice
+Indice
 <div class="idc-box">
 <p class="idc-titulo">Contents</p>
 <ul class="idc-lista">
  <li><a href="#Portada">1 Portada 1</a>
 <ul>
-   <li><a href="#subindice1">1.1 Subindice 1</a><li>
-   <li><a href="#subindice2">1.2 Subindice 1</a><li>
+   <li><a href="#subindice1">1.1 Sistema de Vigilancia 1</a><li>
+   <li><a href="#subindice2">1.2 Introduccion</a><li>
 </ul>
 </li
 </div>
