@@ -78,7 +78,9 @@ Indice
          <li><a href="#subindice2">1.2 Sensor de Humedad</a><li>
          <li><a href="#subindice3">1.3 Sensor de Temperaturad y Humedad</a><li>
          <li><a href="#subindice4">1.4 Sensor de Intensidad Luminosa</a><li>
-         <li><a href="#subindice5">1.5 Sensor de Dioxido de Carbono (CO2)</a><li>  
+         <li><a href="#subindice5">1.5 Sensor de Dioxido de Carbono (CO2)</a><li>
+         <li><a href="#subindice6">1.6 Sensor del Nivel del Agua</a><li>
+         <li><a href="#subindice7">1.7 Sensor de pH y CE</a><li>
    </ul>
   </li>
  </ul>
@@ -274,6 +276,9 @@ La concentración adecuada de oxígeno en el entorno de la raíz es crucial para
 
 ![Sensor de CO2](https://images-na.ssl-images-amazon.com/images/I/51TU0H%2BkGGL._AC_SL1000_.jpg)
 
+
+<a name="subindice6"></a>
+
 ## Sensor de nivel de agua.
 En la aeroponía no hay ningún uso del suelo; solo se necesita agua para cultivar la planta durante la germinación hasta el momento de la cosecha. Por lo tanto, el reservorio de solución de nutrientes de agua es uno de los componentes principales del sistema aeropónico que debe monitorearse durante todo el período de crecimiento. En el sistema aeropónico convencional, el agricultor verifica el nivel de nutrientes del agua en el depósito de la solución de nutrientes, y si encuentra un nivel de agua menor que el nivel deseado, lo mantuvo en consecuencia. Sin embargo, al adoptar las técnicas de agricultura de precisión, el agricultor podrá monitorear y controlar el nivel de nutrientes del agua a través de métodos inteligentes como sensores inalámbricos. Los sensores de nivel de nutrientes del agua detectan el nivel de líquido en los depósitos y facilitan al operador la recopilación de datos del nivel de nutrientes del agua en tiempo real. Los sensores alertan al operador sobre cualquier daño potencial a la propiedad que resulte de cualquier fuga y también le permitirán saber cuándo un contenedor está casi vacío.
 | Especificaciones técnicas   |                           |
@@ -287,6 +292,9 @@ En la aeroponía no hay ningún uso del suelo; solo se necesita agua para cultiv
 | Dimensiones del producto    | 62 mm x 20 mm x 8 mm      |
 
 ![Water level sensor](https://rassoft.net/rassoftshop/1305-large_default/water-sensor-water-level-sensor-4cm-for-arduino.jpg)
+
+
+<a name="subindice7"></a>
 
 ## Sensor de pH y CE. 
 En el sistema aeropónico, la productividad de la planta está estrechamente relacionada con la absorción de nutrientes y la regulación de EC y pH de la solución de nutrientes. La concentración de EC y pH de la solución de nutrientes afecta la disponibilidad de los nutrientes para las plantas. Las concentraciones de pH y CE se controlan para evitar el crecimiento de la barrera. Su medición es esencial porque la solubilidad de los minerales en la concentración ácida, alcalina e iónica de todas las especies en las soluciones es diferente y la concentración de la solución cambia con la solubilidad. La concentración de EC y pH no monitoreada de la solución de nutrientes conducirá rápidamente a una situación en la que las plantas no pueden absorber los nutrientes esenciales, si no se corrige, esto eventualmente conducirá a un crecimiento dañino de la planta y una baja productividad. Por lo tanto, la concentración de EC y pH de la solución nutritiva es un parámetro crítico para ser medido y controlado durante todo el crecimiento de la planta.
