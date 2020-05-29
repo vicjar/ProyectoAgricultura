@@ -74,7 +74,7 @@ Indice
 
 
 
-<h6 id="Subindice1.1">1.1</h6>
+<h6 id="subindice1.1">1.1</h6>
 
 # Sistemas de vigilancia y control en la agricultura mediante técnicas de sensores inteligentes
 
