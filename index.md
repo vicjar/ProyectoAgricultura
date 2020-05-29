@@ -1,43 +1,73 @@
-![](https://tijuana.tecnm.mx/wp-content/uploads/2018/07/logo_ITT1.png)
-
-# TECNOLÓGICO NACIONAL DE MÉXICO
-
-### INSTITUTO TECNOLÓGICO DE TIJUANA
-
-#### SUBDIRECCIÓN ACADÉMICA DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN  
-Semestre: Febrero 2020
-
-##### CARRERA
-
-Ingeniería en Sistemas Computacionales
-
-##### MATERIA
-
-Sistemas Programables
-
-##### TÍTULO
-
+<p align="center">
+  <img src="https://tijuana.tecnm.mx/wp-content/uploads/2018/07/logo_ITT1.png">
+</p>
+<h1 align="center">TECNOLÓGICO NACIONAL DE MÉXICO</h1>
+<h3 align="center">INSTITUTO TECNOLÓGICO DE TIJUANA</h3>
+<h4 align="center">
+SUBDIRECCIÓN ACADÉMICA
+DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
+<br>Semestre: Febrero 2020
+</h4>
+<h5 align="center">
+CARRERA
+</h5>
+<p align="center">
+Ingeniería en Sistemas Computacionales 
+</p>
+<h5 align="center">
+MATERIA 
+</h5>
+<p align="center"> 
+Sistemas Programables 
+</p>  
+<h5 align="center">         
+TÍTULO
+</h5>
+<p align="center">         
 Proyecto de cierre
-
-##### UNIDAD
-
+</p>
+<h5 align="center">
+UNIDAD 
+</h5>
+<p align="center">
 IV
+</p>
 
-##### ALUMNO Y NO. DE CONTROL
-
+<h5 align="center">
+ALUMNO Y NO. DE CONTROL
+</h5>
+<p align="center">
 Victor Jair Aulis Sanchez 17212836
-
+</p>
+<p align="center">
 García Rincon Daniel Gerardo 16212002
-
+</p>
+<p align="center">
 Aceves Zamora Juan Antonio 16210502
-
+</p>
+<p align="center">
 Hernandez Gambino Kevin Josafat 17211049
-
+</p>
+<p align="center">
 Velarde Alvarez Luis Rafael 16212371
-
-##### MAESTRO
-
+</p>
+<h5 align="center">
+MAESTRO
+</h5>
+<p align="center">
 Rene Solis Reyes
+
+#Indice
+<div class="idc-box">
+<p class="idc-titulo">Contents</p>
+<ul class="idc-lista">
+ <li><a href="#Portada">1 Portada 1</a>
+<ul>
+   <li><a href="#subindice1">1.1 Subindice 1</a><li>
+   <li><a href="#subindice2">1.2 Subindice 1</a><li>
+</ul>
+</li
+</div>
 
 
 # Sistemas de vigilancia y control en la agricultura mediante técnicas de sensores inteligentes
@@ -69,7 +99,7 @@ La agricultura tiene una historia antigua que casi se remonta a
 miles de años. Además, su avance ha sido
 impulsado por la aplicación de varios sistemas y prácticas nuevos,
 tecnologías, y se aproxima con el tiempo. Emplea más de
-un tercio de la fuerza de trabajo mundial. La agricultura es la
+un tercio de la fuerza de trabajo mundial [1]. La agricultura es la
 columna vertebral de una economía para muchos países y ejecuta una
 contribución significativa al desarrollo de la economía
 para los países subdesarrollados. Además, dirige el proceso
@@ -79,8 +109,9 @@ aproximadamente el setenta por ciento por año de agua dulce disponible
 para irrigar sólo el diecisiete por ciento de la tierra. Otro lado,
 el total de tierras de regadío disponibles está disminuyendo gradualmente debido a
 al rápido aumento de las necesidades de alimentos y los efectos de la
-el calentamiento global. En otras palabras, la agricultura está tratando
-con nuevos y significativos desafíos. Foote dijo que la FAO informó de que la producción mundial de alimentos debe aumentar en
+el calentamiento global [2, 3]. En otras palabras, la agricultura está tratando
+con nuevos y significativos desafíos. Foote [4] dijo que la FAO
+informó de que la producción mundial de alimentos debe aumentar en
 setenta por ciento para proporcionar una producción de alimentos suficiente para
 el rápido crecimiento de la población y la urbanización. La esperada
 el crecimiento de la población mundial para la mitad del presente siglo
@@ -97,16 +128,16 @@ rápido aumento de la población, junto con la disminución de
 tierras agrícolas, la intensificación de los cambios climáticos mundiales,
 y la exacerbación de los recursos hídricos, disminuye la fuerza de trabajo
 y las crisis de energía están planteando enormes desafíos y
-obstáculos al sector agrícola. Además, el
+obstáculos al sector agrícola [5, 6]. Además, el
 Los países en desarrollo y desarrollados se enfrentarán a importantes
 crisis y problemas de agua debido a la rápida urbanización e industrialización. El agua dulce disponible para la agricultura de regadío
-se supone que la tierra disminuirá en el futuro. Además, el
+se supone que la tierra disminuirá en el futuro [7, 8]. Además, el
 Los cambios climáticos impredecibles incluyen condiciones climáticas extremas, tormentas intensas, olas de calor, e inundaciones tendrán un
 un efecto adverso sustancial en el sector agrícola mundial. Nosotros
 necesitan más producción de los sistemas agrícolas para cumplir
 las crecientes demandas de alimentos. De lo contrario, sufriremos de
 problemas de inseguridad alimentaria que será la mayor amenaza.
-Además, Qiu y sus compañeros de trabajo revelaron que el progreso
+Además, Qiu y sus compañeros de trabajo [9] revelaron que el progreso
 de la producción agrícola no sólo es importante para
 producir alimentos para alimentar a la población, pero también es esencial
 para el sector industrial. Del mismo modo, la agricultura es la principal
@@ -151,7 +182,7 @@ Sin embargo, los nodos sensores inalámbricos se utilizan como Entrada de señal
 
 El sistema optimiza los protocolos de transmisión de forma más precisa y rápida y maximiza la aplicación de energía para ahorrar energía y reducir el consumo. Pala y equipo sugiere que la utilisa- ción dedeartifitécnicasinteligenciaciales en los siste- mas aeropónicas podría conducir no sólo para hallarfalla temprana detección, sino también para automatizar completamente el sistema sin ningún o pequeñas las intervenciones de los humanos operadores. El sistema aeropónico podría ganar más popularidad entre los agricultores locales al implementar esta técnica en un sistema de monitoreo y control. Sin embargo, conservará recursos y minimizará los impactos en el medio ambiente. Los agricultores podrían comenzar a comprender sus cultivos a micro escala y poder comunicarse con la planta a través de tecnología accesible. Por lo tanto, en este artículo, exploramos cómo las tecnologías de detección inalámbricas se integraron en el sistema aeropónico. Por lo tanto, la principal motivación de este artículo de revisión era proporcionar una idea acerca de diffErent Intelli-gent agricultura herramientas usada para la falla temprana detección y diagnóstico para el cultivo de plantas en el sistema aeropónico monitorización. Además, sería útil para el agricultor local y cultivador para proporcionar información oportuna sobre los problemas de subida y enflfactores de crecimiento uirexitosa planta en el sistema aeropónico. La adopción de las herramientas de monitoreo inteligente de la agricultura podría reducir el concepto de inadecuado para el aficionado.
 
-Número de nodos de sensor y parámetros de entrada. En ent PRESION, la utilización de diffErent técnicas de sensor es casi posible en cada esferade la vida debido a las fuertes progresiones en las tecnologías disponibles en la actualidad. Además, el sensor es un dispositivo que tiene la capacidad de medir atributos físicos y convertirlos en señales para el observador. Una WSN (red de sensores inalámbricos) tradicionalmente consta de unas pocas docenas y, en algunos casos, miles de nodos de sensores que están conectados a uno o más sensores. Generalmente, incluye una BS (estación base), que actúa como puerta de enlace entre WSN y los usuarios finales. Cada nodo sensor está consistiendo en cincocomponentes principales, que son una unidad de microcontrolador, una unidad de transceptor, una unidad de memoria, una unidad de potencia, y una unidad de sensor. Cada uno de estos componentes es determinante en el diseño de un WSN para su implementación. Además, la unidad de control micro está a cargo de ladi,ffErent tareas, ing datos proceso-  y el control de los otros componentes en el nodo . A través de la unidad transceptora, un modo sensor realiza su comunicación con otros nodos y otras partes del WSN. Es la unidad de comunicación más dominante. La unidad de memoria es otra parte importante del sistema WSN, que se utiliza para almacenar los datos observados. La unidad de memoria puede ser RAM, ROM, ysus otros tipos de memoria flla cenizao dispositivos de almacenamiento incluso externos, tales como USB. Por último, la última unidad es la unidad de potencia. Es uno de los componentes críticos del sistema que es para el suministro de energía del nodo. Sin embargo, la unidad de potencia podría ser cualquier fuente; Se puede almacenar en baterías (más comunes) recargables o no en condensadores. Además, para el suministro de energía adicional y la recarga de la unidad de energía, se podría utilizar el recurso natural disponible. Las fuentes naturales inducen la energía de la energía solar en forma de paneles y células fotovoltaicas, energía eólica con turbinas, energía cinética del agua, etc. Por último, pero no menos importante, está la unidad de sensor, que incluye varios sensores para mediciones de parámetros como temperatura, humedad, dióxido de carbono, metano y monóxido de carbono. Sin embargo, en el sistema aeropónico, el número total requerido de sensores y actuadores depende del tamaño y los requisitos del operador.
+Número de nodos de sensor y parámetros de entrada. En ent PRESION, la utilización de diffErent técnicas de sensor es casi posible en cada esferade la vida debido a las fuertes progresiones en las tecnologías disponibles en la actualidad. Además, el sensor es un dispositivo que tiene la capacidad de medir atributos físicos y convertirlos en señales para el observador. Una WSN (red de sensores inalámbricos) tradicionalmente consta de unas pocas docenas y, en algunos casos, miles de nodos de sensores que están conectados a uno o más sensores [88]. Generalmente, incluye una BS (estación base), que actúa como puerta de enlace entre WSN y los usuarios finales. Cada nodo sensor está consistiendo en cincocomponentes principales, que son una unidad de microcontrolador, una unidad de transceptor, una unidad de memoria, una unidad de potencia, y una unidad de sensor. Cada uno de estos componentes es determinante en el diseño de un WSN para su implementación. Además, la unidad de control micro está a cargo de ladi,ffErent tareas, ing datos proceso-  y el control de los otros componentes en el nodo . A través de la unidad transceptora, un modo sensor realiza su comunicación con otros nodos y otras partes del WSN. Es la unidad de comunicación más dominante. La unidad de memoria es otra parte importante del sistema WSN, que se utiliza para almacenar los datos observados. La unidad de memoria puede ser RAM, ROM, ysus otros tipos de memoria flla cenizao dispositivos de almacenamiento incluso externos, tales como USB. Por último, la última unidad es la unidad de potencia. Es uno de los componentes críticos del sistema que es para el suministro de energía del nodo. Sin embargo, la unidad de potencia podría ser cualquier fuente; Se puede almacenar en baterías (más comunes) recargables o no en condensadores. Además, para el suministro de energía adicional y la recarga de la unidad de energía, se podría utilizar el recurso natural disponible. Las fuentes naturales inducen la energía de la energía solar en forma de paneles y células fotovoltaicas, energía eólica con turbinas, energía cinética del agua, etc. Por último, pero no menos importante, está la unidad de sensor, que incluye varios sensores para mediciones de parámetros como temperatura, humedad, dióxido de carbono, metano y monóxido de carbono. Sin embargo, en el sistema aeropónico, el número total requerido de sensores y actuadores depende del tamaño y los requisitos del operador.
 
 # Sensores utilizados
 
