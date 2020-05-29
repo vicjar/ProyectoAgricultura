@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://tijuana.tecnm.mx/wp-content/uploads/2018/07/logo_ITT1.png">
-  Portada
 </p>
+<h30 id="Portada">/h30>
 <h1 align="center">TECNOLÓGICO NACIONAL DE MÉXICO</h1>
 <h3 align="center">INSTITUTO TECNOLÓGICO DE TIJUANA</h3>
 <h4 align="center">
