@@ -219,6 +219,7 @@ Número de nodos de sensor y parámetros de entrada. En ent PRESION, la utilizac
 
 # Sensores utilizados
 
+
 <a name="subindice1"></a>
 
 ## Sensor de temperatura. 
