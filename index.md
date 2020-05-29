@@ -84,7 +84,7 @@ Indice
    </ul>
   </li>
     <li><a href=#Rerencias>Referencias</a></li>
-    </li>
+  </li>
  </ul>
 </div>
 
@@ -333,6 +333,8 @@ En el sistema aeropónico convencional, el valor de EC y pH de la solución nutr
 | Rango de temperatura             | 0~40°C               |
 
 ![SensorCE](https://raw.githubusercontent.com/DFRobot/DFRobotMediaWikiImage/master/Image/DFR0300_V2.jpg)
+
+<a name="Referencias"></a>
 
 # REFERENCIAS
 
