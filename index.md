@@ -171,6 +171,8 @@ la agricultura podría superarse adoptando los métodos de la agricultura de pre
 sus productividades agrícolas mediante la aplicación de la precisión
 los métodos de cultivo.
 
+<a name="subindice1.3"></a>
+
 # El sistema aeropónico
 
 El sistema aeropónico es una de las técnicas del cultivo sin suelo, donde la planta crece en el aire con la ayuda de un soporte artificial del cultivo del suelo o sustrato. Es una técnica de cultivo de plantas de aire-agua donde las porciones más bajas, como las raíces de la planta, se cuelgan dentro de la cámara de crecimiento bajo completa oscuridad en condiciones controladas. Sin embargo, las porciones superiores de la planta, como las hojas, los frutos y la porción de la corona se extienden fuera de la cámara de crecimiento. Por lo general, la infraestructura del soporte (de plástico o termo espuma) se proporciona para el apoyo y dividir la planta en dos partes (raíces y hojas). En el sistema, las raíces de las plantas se exponen abiertamente al aire y se riegan directamente con un pequeño tamaño de gota del nutriente de agua a intervalos. La solución nutriente se suministra a través de diffErent boquillas de atomización con o sin presión de aire de alta. Además, varios estudios consideraron la aeroponía como una actividad agrícola moderna que se practica en una cámara de crecimiento cerrada en condiciones controladas enteras, ya que podría eliminar los factores ambientales externos en comparación con la actividad agrícola tradicional. Por lo tanto, ya no depende del uso de la tierra a gran escala, y podría instalarse en cualquier lugar, un edificio que haya elevado el clima global sin tener en cuenta el clima actual, como la temporada de lluvias y el invierno.
