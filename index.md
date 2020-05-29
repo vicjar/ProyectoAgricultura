@@ -69,7 +69,7 @@ La agricultura tiene una historia antigua que casi se remonta a
 miles de años. Además, su avance ha sido
 impulsado por la aplicación de varios sistemas y prácticas nuevos,
 tecnologías, y se aproxima con el tiempo. Emplea más de
-un tercio de la fuerza de trabajo mundial [1]. La agricultura es la
+un tercio de la fuerza de trabajo mundial. La agricultura es la
 columna vertebral de una economía para muchos países y ejecuta una
 contribución significativa al desarrollo de la economía
 para los países subdesarrollados. Además, dirige el proceso
@@ -79,9 +79,8 @@ aproximadamente el setenta por ciento por año de agua dulce disponible
 para irrigar sólo el diecisiete por ciento de la tierra. Otro lado,
 el total de tierras de regadío disponibles está disminuyendo gradualmente debido a
 al rápido aumento de las necesidades de alimentos y los efectos de la
-el calentamiento global [2, 3]. En otras palabras, la agricultura está tratando
-con nuevos y significativos desafíos. Foote [4] dijo que la FAO
-informó de que la producción mundial de alimentos debe aumentar en
+el calentamiento global. En otras palabras, la agricultura está tratando
+con nuevos y significativos desafíos. Foote dijo que la FAO informó de que la producción mundial de alimentos debe aumentar en
 setenta por ciento para proporcionar una producción de alimentos suficiente para
 el rápido crecimiento de la población y la urbanización. La esperada
 el crecimiento de la población mundial para la mitad del presente siglo
@@ -98,16 +97,16 @@ rápido aumento de la población, junto con la disminución de
 tierras agrícolas, la intensificación de los cambios climáticos mundiales,
 y la exacerbación de los recursos hídricos, disminuye la fuerza de trabajo
 y las crisis de energía están planteando enormes desafíos y
-obstáculos al sector agrícola [5, 6]. Además, el
+obstáculos al sector agrícola. Además, el
 Los países en desarrollo y desarrollados se enfrentarán a importantes
 crisis y problemas de agua debido a la rápida urbanización e industrialización. El agua dulce disponible para la agricultura de regadío
-se supone que la tierra disminuirá en el futuro [7, 8]. Además, el
+se supone que la tierra disminuirá en el futuro. Además, el
 Los cambios climáticos impredecibles incluyen condiciones climáticas extremas, tormentas intensas, olas de calor, e inundaciones tendrán un
 un efecto adverso sustancial en el sector agrícola mundial. Nosotros
 necesitan más producción de los sistemas agrícolas para cumplir
 las crecientes demandas de alimentos. De lo contrario, sufriremos de
 problemas de inseguridad alimentaria que será la mayor amenaza.
-Además, Qiu y sus compañeros de trabajo [9] revelaron que el progreso
+Además, Qiu y sus compañeros de trabajo revelaron que el progreso
 de la producción agrícola no sólo es importante para
 producir alimentos para alimentar a la población, pero también es esencial
 para el sector industrial. Del mismo modo, la agricultura es la principal
