@@ -114,26 +114,105 @@ Número de nodos de sensor y parámetros de entrada. En ent PRESION, la utilizac
 
 # Sensores utilizados
 
-Sensor de temperatura. 
+## Sensor de temperatura. 
 En el sistema aeropónico, la temperatura es uno de los factores críticos que determina significativamente el crecimiento y desarrollo de la planta. Una reducción de la temperatura por debajo de las condiciones óptimas a menudo resulta en un crecimiento de plantas subóptimo. Un cultivar diferente requiere un nivel de temperatura diferente para el proceso de fotosíntesis y el crecimiento, lo que puede avanzar la etapa de crecimiento de la planta. Eventualmente nos traerá beneficios económicos sustanciales. En el sistema aeropónico, la temperatura óptima de la cámara de crecimiento no debe ser menor y mayor de 4 y 30 ° C, respectivamente, para un crecimiento exitoso de la planta. Las fluctuaciones de temperatura de la cámara de crecimiento aeropónico pueden afectar significativamente el crecimiento de la raíz, la respiración, la transpiración, la floración y el período inactivo. Por lo tanto, los sensores de temperatura se pueden utilizar para controlar las fluctuaciones de temperatura del sistema aeropónico. En la actualidad, los sensores de temperatura se utilizan en muchas aplicaciones, como controles ambientales, unidades de procesamiento de alimentos, dispositivos médicos y manipulación de productos químicos. El sensor de temperatura es un dispositivo compuesto principalmente por termopar o detector de temperatura de resistencia. El sensor de temperatura mide la lectura de temperatura en tiempo real a través de una señal eléctrica. Los sensores recopilan los datos sobre la temperatura de una fuente en particular y los convierten en una forma comprensible para un dispositivo o un observador. El sensor de temperatura mide con precisión las temperaturas más lentas cambiando desde aplicaciones críticas como instalaciones o habitaciones y las envía a la página web del usuario.
 
-Sensor de humedad.
+## Sensor de humedad.
 La humedad es otro parámetro importante de los ambientes de la cámara de crecimiento aeropónico, y se reconoce que su control es muy importante para el crecimiento significativo de la planta. En el sistema aeropónico, la planta obtiene toda la humedad disponible en la cámara de crecimiento. Además, si la cámara de crecimiento tiene un contenido de humedad demasiado alto o menor, ambas condiciones crearán muchos problemas para la planta. En consecuencia, un medio exacto y preciso de probar el contenido de humedad en la cámara de crecimiento ayudará a los agricultores a monitorear sus cultivos y proporcionará un entorno de crecimiento adecuado para la planta. Un sensor de humedad es un dispositivo que detecta y mide el vapor de agua presente en el aire dentro de una habitación o recinto. En la actualidad, los sensores de humedad son ampliamente utilizados en medicina, agricultura y monitoreo ambiental. Sin embargo, las unidades más utilizadas para medir la humedad son la humedad relativa.
 El desarrollo de sensores de humedad ha mostrado un progreso notable debido al uso de varios tipos de materiales de detección en los últimos años. Los materiales de detección utilizados en los sensores de humedad pueden clasificarse en cerámica, polímeros y compuestos.
 El sensor de humedad podría colocarse en la cámara de crecimiento para mantener el nivel de humedad. Si el nivel de humedad es menor que el requisito de la planta, los sensores enviarán las señales a las boquillas de atomización para realizar su trabajo.
 
-Sensor de intensidad luminosa.
+## Sensor de temperatura y humedad
+
+| Especificaciones técnicas           |                  |
+|-------------------------------------|------------------|
+| Rango de medición de humedad        | 20% -95%         |
+| Precisión                           | + -5%            |
+| Rango de medición de la temperatura | 0 - 50°C         |
+| Precisión                           | + -2 grados      |
+| Voltaje de alimentación             | 3.3 V-5 V        |
+| Salida de señal                     | Digital          |
+| Tamaño                              | 28 * 12 * 7.2 mm |
+
+![Sensor de temperatura y humedad](https://cdn-shop.adafruit.com/970x728/386-02.jpg)
+
+## Sensor de intensidad luminosa.
 Todas las plantas y flores vegetales requieren grandes cantidades de luz solar, y cada grupo de plantas reacciona de manera diferente y tiene la fisiología diferente para lidiar con la intensidad de la luz. Algunas plantas funcionan bien en baja intensidad de luz y algunas en alta intensidad de luz. Sin embargo, el sistema aeropónico se implementa en condiciones interiores, por lo que es necesario que el agricultor proporcione una cantidad de luz suficiente de al menos 8 a 10 horas durante un día para cultivar la planta sana. La iluminación artificial es una mejor opción para presentar la intensidad suficiente para producir una planta saludable. En el sistema aeropónico convencional, el control de la cantidad de luz presente en la cámara de crecimiento es realizado principalmente por el agricultor mediante la observación del estado de la planta. Sin embargo, es una tarea larga y desafiante para el agricultor proporcionar con precisión la concentración de luz requerida. Podría ser una mejor opción utilizar técnicas agrícolas inteligentes para controlar la intensidad de la luz en el sistema aeropónico. Las técnicas de agricultura inteligente significan usar el sistema de sensores para controlar la intensidad de la luz. El sensor de luz es un dispositivo electrónico que se utiliza para detectar la presencia o no de luz y oscuridad. Existen varios tipos de sensores de luz, incluidos fotoresistores, fotodiodos y fototransistores. Estos sensores de luz distinguen la sustancia de la luz en una cámara de crecimiento y aumentan o disminuyen el brillo de la luz a un nivel más cómodo. Los sensores de luz se pueden usar para controlar automáticamente las luces, como encender / apagar. Al adoptar la red de sensores en aeroponía, el agricultor podría monitorear la intensidad de la luz sin ninguna interferencia humana. Debido a que los sensores realizarán todo el trabajo, como si la intensidad de la luz en la cámara de crecimiento fuera menor que la cantidad de luz requerida para el crecimiento de la planta, el sensor enviará automáticamente la señal a la luz LED para que se encienda hasta que la cantidad de luz llegue al nivel deseado.
 
-Sensor de CO₂.
+| Especificaciones técnicas |                                        |
+|---------------------------|----------------------------------------|
+| Voltaje de funcionamiento | 3.5V-5V                                |
+| Corriente                 | > 15mA                                 |
+| Tipo de sensor            | De luz                                 |
+| Formato de salida:        | Salidas de conmutación digital (0 y 1) |
+| Dimensiones del producto  | 3.2cm x 1.4cm                          |
+
+![Sensor de intensidad luminosa](https://images-na.ssl-images-amazon.com/images/I/612AM5zJL3L._SL1001_.jpg)
+
+## Sensor de CO₂.
 La concentración adecuada de oxígeno en el entorno de la raíz es crucial para mantener el metabolismo de la raíz en solución nutricional. La concentración de oxígeno disponible para el ambiente de la raíz es un factor muy significativo ya que las bajas concentraciones afectan la respiración de la raíz, la absorción de nutrientes y, en consecuencia, el crecimiento de la planta. El sensor de CO2 podría usarse para monitorear las fluctuaciones de dióxido de carbono en la cámara de crecimiento aeropónico. Un sensor de dióxido de carbono es un instrumento que se utiliza para medir la concentración de gas de dióxido de carbono. Los sensores de CO2 se utilizan para medir la calidad del aire interior en un edificio para realizar una ventilación basada en la demanda. Sin embargo, el rango de medición de datos del sensor de CO2 está entre 500 y 5000 partes por millón. Hay dos tipos principales de sensores de CO2 que incluyen sensores infrarrojos de dióxido de carbono no dispersivos (NICDS) y sensores químicos de dióxido de carbono (CCDS), mientras que los NICDS detectaron CO2 en un entorno gaseoso por su absorción característica y compuesto por un detector infrarrojo, una interferencia filtro, un tubo de luz y una fuente de infrarrojos. Sin embargo, los CCDS de las capas sensibles se basan en polímeros o heteropolisiloxanos con bajo consumo de energía].
 
-Sensor de nivel de agua.
-En la aeroponía no hay ningún uso del suelo; solo se necesita agua para cultivar la planta durante la germinación hasta el momento de la cosecha. Por lo tanto, el reservorio de solución de nutrientes de agua es uno de los componentes principales del sistema aeropónico que debe monitorearse durante todo el período de crecimiento. En el sistema aeropónico convencional, el agricultor verifica el nivel de nutrientes del agua en el depósito de la solución de nutrientes, y si encuentra un nivel de agua menor que el nivel deseado, lo mantuvo en consecuencia. Sin embargo, al adoptar las técnicas de agricultura de precisión, el agricultor podrá monitorear y controlar el nivel de nutrientes del agua a través de métodos inteligentes como sensores inalámbricos. Los sensores de nivel de nutrientes del agua detectan el nivel de líquido en los depósitos y facilitan al operador la recopilación de datos del nivel de nutrientes del agua en tiempo real. Los sensores alertan al operador sobre cualquier daño potencial a la propiedad que resulte de cualquier fuga y también le permitirán saber cuándo un contenedor está casi vacío.
+| Especificaciones técnicas |                                    |
+|---------------------------|------------------------------------|
+| Voltaje de funcionamiento | 5V                                 |
+| Tipo de sensor            | Analógico                          |
+| Características           | * Una salida digital.              |
+|                           | * Conector de alta calidad.        |
+|                           | * Superficie de oro de inmersión.  |
+|                           | * Circuito de calefacción a bordo. |
+| Dimensiones del producto  | 32 x 42 mm                         |
 
-Sensor de pH y CE. 
+![Sensor de CO2](https://images-na.ssl-images-amazon.com/images/I/51TU0H%2BkGGL._AC_SL1000_.jpg)
+
+## Sensor de nivel de agua.
+En la aeroponía no hay ningún uso del suelo; solo se necesita agua para cultivar la planta durante la germinación hasta el momento de la cosecha. Por lo tanto, el reservorio de solución de nutrientes de agua es uno de los componentes principales del sistema aeropónico que debe monitorearse durante todo el período de crecimiento. En el sistema aeropónico convencional, el agricultor verifica el nivel de nutrientes del agua en el depósito de la solución de nutrientes, y si encuentra un nivel de agua menor que el nivel deseado, lo mantuvo en consecuencia. Sin embargo, al adoptar las técnicas de agricultura de precisión, el agricultor podrá monitorear y controlar el nivel de nutrientes del agua a través de métodos inteligentes como sensores inalámbricos. Los sensores de nivel de nutrientes del agua detectan el nivel de líquido en los depósitos y facilitan al operador la recopilación de datos del nivel de nutrientes del agua en tiempo real. Los sensores alertan al operador sobre cualquier daño potencial a la propiedad que resulte de cualquier fuga y también le permitirán saber cuándo un contenedor está casi vacío.
+| Especificaciones técnicas   |                           |
+|-----------------------------|---------------------------|
+| Voltaje de funcionamiento   | 3-5V                      |
+| Corriente de funcionamiento | < 20 mA                   |
+| Tipo de sensor              | Analógico                 |
+| Proceso de producción       | FR4 HASL de doble cara    |
+| Humedad                     | 10% -90% sin condensación |
+| Área de detección           | 40 mm x 16 mm             |
+| Dimensiones del producto    | 62 mm x 20 mm x 8 mm      |
+
+![Water level sensor](https://rassoft.net/rassoftshop/1305-large_default/water-sensor-water-level-sensor-4cm-for-arduino.jpg)
+
+## Sensor de pH y CE. 
 En el sistema aeropónico, la productividad de la planta está estrechamente relacionada con la absorción de nutrientes y la regulación de EC y pH de la solución de nutrientes. La concentración de EC y pH de la solución de nutrientes afecta la disponibilidad de los nutrientes para las plantas. Las concentraciones de pH y CE se controlan para evitar el crecimiento de la barrera. Su medición es esencial porque la solubilidad de los minerales en la concentración ácida, alcalina e iónica de todas las especies en las soluciones es diferente y la concentración de la solución cambia con la solubilidad. La concentración de EC y pH no monitoreada de la solución de nutrientes conducirá rápidamente a una situación en la que las plantas no pueden absorber los nutrientes esenciales, si no se corrige, esto eventualmente conducirá a un crecimiento dañino de la planta y una baja productividad. Por lo tanto, la concentración de EC y pH de la solución nutritiva es un parámetro crítico para ser medido y controlado durante todo el crecimiento de la planta.
 En el sistema aeropónico convencional, el valor de EC y pH de la solución nutritiva se controla principalmente de forma manual mediante análisis de laboratorio o utilizando equipos avanzados, que es un proceso que lleva mucho tiempo. Por ejemplo, cuando la CE de la solución de nutrientes disminuyó o aumentó, el control de la concentración de la solución de nutrientes se logra principalmente al agregar más solución de nutrientes de alta concentración o el agua dulce, respectivamente, a la solución de nutrientes para mantener el nivel de CE al objetivo prescrito. rango. Para el pH, se utilizan una solución ácida y una solución alcalina para controlar la fluctuación del pH de la solución nutritiva dentro de un rango objetivo especificado. Estos métodos convencionales son una tarea larga y desafiante para el agricultor para mantener el valor de CE y pH en el rango deseado con precisión. Además, el sensor de CE y pH podría utilizarse para hacer frente a los desafíos anteriores.
+## Sensor pH
+| Especificaciones técnicas |                          |
+|---------------------------|--------------------------|
+| Potencia del módulo       | 5.00V                    |
+| Tamaño del módulo         | 43 x 32 mm (1.69x1.26 ") |
+| Rango de medición         | 0 - 14PH                 |
+| Temperatura de medición   | 0-60 ℃                   |
+| Precisión                 | ± 0.1pH (25℃)            |
+| Tiempo de respuesta       | ≤ 1 min                  |
+| Conector                  | BNC                      |
+| Interfaz                  | pH2.0 (parche de 3 pies) |
+
+![Sensor pH](https://store-cdn.arduino.cc/usa/catalog/product/cache/1/image/520x330/604a3538c15e081937dbfbd20aa60aad/m/a/main_3.jpg)
+## Sensor CE
+| Tarjeta de conversión de señal (transmisor) V2 |                                               |
+|------------------------------------------------|-----------------------------------------------|
+| Voltaje de alimentación                        | 3.0~5.0V                                      |
+| Voltaje de salida                              | 0~3.4V                                        |
+| Conector de sonda                              | BNC                                           |
+| Conector de señal                              | PH2.0-3 Pin                                   |
+| Precisión de medición                          | ± 5% F.S.                                     |
+| Tamaño del tablero                             | 42 mm * 32 mm / 1.65 pulgadas * 1.26 pulgadas |
+
+| Sonda de conductividad eléctrica |                      |
+|----------------------------------|----------------------|
+| Tipo de sonda                    | Grado de laboratorio |
+| Constante de celda               | 1.0                  |
+| Rango de detección de soporte    | 0~20 ms/cm           |
+| Rango de detección recomendado   | 1~15 ms/cm           |
+| Rango de temperatura             | 0~40°C               |
+
+![SensorCE](https://raw.githubusercontent.com/DFRobot/DFRobotMediaWikiImage/master/Image/DFR0300_V2.jpg)
 
 # REFERENCIAS
 
