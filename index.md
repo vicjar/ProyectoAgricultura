@@ -65,7 +65,7 @@ Indice
  <li><a href="#Portada">Portada</a>
 <ul>
    <li><a href="#subindice1.1">1.1 Sistema de Vigilancia</a><li>
-   <li><a href="#subindice1.2">1.2 Introduccion</a><li>
+   <li><a href="#subindice1.2">1.2 INTRODUCCION</a><li>
    <li><a href="#subindice1.3">1.3 El Sistema Aeroponico</a><li>
    
   </ul>
