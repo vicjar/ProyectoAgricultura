@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-relative-links
+markdown
 relative_links:
   enabled: true
   collections: true
