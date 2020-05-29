@@ -68,6 +68,7 @@ Indice
    <li><a href="#subindice1.2">1.2 INTRODUCCION</a><li>
    <li><a href="#subindice1.3">1.3 El Sistema Aeroponico</a><li>
    <li><a href="#subindice1.4">1.4 Los problemas clave y dificultades del sistema aeropónico</a><li>
+   <li><a href="#subindice1.5">1.5 El sistema Aeroponic y la red de sensores </a><li>  
    
   </ul>
  </li>
@@ -188,6 +189,7 @@ El cultivo aeropónico se realiza en una instalación exterior e interior y / o 
 
 Además, existe el requisito de mantener y retener los parámetros de la solución de nutrientes que incluyen la temperatura de los nutrientes, el pH y la concentración de CE en un rango estrecho de valores preferidos para un crecimiento óptimo. Si estos parámetros se desplazan fuera del rango deseado, creará varios problemas para el crecimiento de las plantas. Además, algunos parámetros suplementarios pueden ajustarse para optimizar aún más el crecimiento de la planta. Los parámetros adicionales son el tiempo de atomización, el tiempo del intervalo de atomización, la temperatura del aire, la humedad relativa, la intensidad de la luz y ladióxido de carbono (CO2concentración de) que hacen que el sistema sea complicado y lento con alta energía humana y con el mayor nivel de expertos. entrenamiento y habilidad para operar el sistema. Sin embargo, el productor tiene la responsabilidad de controlar y supervisar la fluctuacionesde los parámetros anteriores en el intervalo deseado para conseguir las condiciones de crecimiento adecuadas para losespecíficas.ficos plantas  Una falla para controlar y monitorear con precisión los parámetros podrían significativamente el crecimiento de la planta.
 
+<a name="subindice1.5"></a>
 
 # El sistema Aeroponic y la red de sensores
 En los últimos años, la detección y diagnóstico tempranos de fallas utilizando un sistema inteligente de monitoreo agrícola se considera la mejor herramienta para monitorear la planta sin operaciones complicadas y análisis de laboratorio que requieran experiencia en el dominio y mucho tiempo. El desarrollo de estas características convenientes ha atraído mucha atención en la agricultura. El sistema se basa en una red de sensores inalámbricos que comprende un servidor de datos, un nodo de convergencia inalámbrico, una pluralidad de enrutadores inalámbricos y una pluralidad de nodos sensores inalámbricos. 
