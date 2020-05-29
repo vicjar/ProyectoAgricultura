@@ -63,8 +63,8 @@ Indice
 <ul class="idc-lista">
  <li><a href="#Portada">1 Portada</a>
 <ul>
-   <li><a href="#subindice1">1.1 Sistema de Vigilancia</a><li>
-   <li><a href="#subindice2">1.2 Introduccion</a><li>
+   <li><a href="#subindice1.1">1.1 Sistema de Vigilancia</a><li>
+   <li><a href="#subindice1.2">1.2 Introduccion</a><li>
   </ul>
  </li>
 </div>
