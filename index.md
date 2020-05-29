@@ -67,6 +67,7 @@ Indice
    <li><a href="#subindice1.1">1.1 Sistema de Vigilancia</a><li>
    <li><a href="#subindice1.2">1.2 INTRODUCCION</a><li>
    <li><a href="#subindice1.3">1.3 El Sistema Aeroponico</a><li>
+   <li><a href="#subindice1.4">1.4 Los problemas clave y dificultades del sistema aeropónico</a><li>
    
   </ul>
  </li>
@@ -178,6 +179,8 @@ los métodos de cultivo.
 El sistema aeropónico es una de las técnicas del cultivo sin suelo, donde la planta crece en el aire con la ayuda de un soporte artificial del cultivo del suelo o sustrato. Es una técnica de cultivo de plantas de aire-agua donde las porciones más bajas, como las raíces de la planta, se cuelgan dentro de la cámara de crecimiento bajo completa oscuridad en condiciones controladas. Sin embargo, las porciones superiores de la planta, como las hojas, los frutos y la porción de la corona se extienden fuera de la cámara de crecimiento. Por lo general, la infraestructura del soporte (de plástico o termo espuma) se proporciona para el apoyo y dividir la planta en dos partes (raíces y hojas). En el sistema, las raíces de las plantas se exponen abiertamente al aire y se riegan directamente con un pequeño tamaño de gota del nutriente de agua a intervalos. La solución nutriente se suministra a través de diffErent boquillas de atomización con o sin presión de aire de alta. Además, varios estudios consideraron la aeroponía como una actividad agrícola moderna que se practica en una cámara de crecimiento cerrada en condiciones controladas enteras, ya que podría eliminar los factores ambientales externos en comparación con la actividad agrícola tradicional. Por lo tanto, ya no depende del uso de la tierra a gran escala, y podría instalarse en cualquier lugar, un edificio que haya elevado el clima global sin tener en cuenta el clima actual, como la temporada de lluvias y el invierno.
 
 El sistema aeropónico es uno de los métodos holísticos de gestión de la producción en la agricultura que promueve y mejora el agroecosistema, la salud y la biodiversidad. El sistema tiene una reputación primordial en el departamento de horticultura, debido a sus implicaciones en los aspectos económicos y técnicos de la agricultura. Entre todos los sistemas agrícolas, solo el sistema aeróbico está recibiendo toda la atención de los agricultores, los encargados de formular políticas, los empresarios y los investigadores agrícolas. El productor podría reducir los requisitos de insumos químicos, incluidos fertilizantes, herbicidas, pesticidas y otros agroquímicos. El productor podría obtener un mayor rendimiento y calidad de la planta cultivada en comparación con otros métodos de cultivo. Sin embargo, el sistema aeropónico es laborioso.
+
+<a name="subindice1.4"></a>
 
 # Los problemas clave y dificultades del sistema aeropónico.
 
