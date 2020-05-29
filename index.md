@@ -98,7 +98,7 @@ el sistema debido al complicado proceso de supervisión y control manual.
 
 ![](https://agriculturers.com/wp-content/uploads/2015/02/cultivo_aeroponico_2.jpg)
 
-<h7 id="Subindice1.2">1.2</h6>
+<h7 id="Subindice1.2">1.2</h7>
 
 # INTRODUCCION 
 
