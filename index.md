@@ -1,40 +1,4 @@
 
-Indice
-<div class="idc-box">
-<p class="idc-titulo">Contenido</p>
-<ul class="idc-lista">
- <li><a href="#Portada">Portada</a>
-  <ul>
-   <li><a href="#subindice1.1">1.1 Sistema de Vigilancia</a><li>
-   <li><a href="#subindice1.2">1.2 INTRODUCCION</a><li>
-   <li><a href="#subindice1.3">1.3 El Sistema Aeroponico</a><li>
-   <li><a href="#subindice1.4">1.4 Los problemas clave y dificultades del sistema aeropónico</a><li>
-   <li><a href="#subindice1.5">1.5 El sistema Aeroponic y la red de sensores </a><li>  
-   
-   </ul>
-  </li>
-   <li><a href=#"Sensores utilizados">Sensores</a></li>
-    <ul>
-         <li><a href="#subindice1">1.1 Sensor de Temperatura</a><li>
-         <li><a href="#subindice2">1.2 Sensor de Humedad</a><li>
-         <li><a href="#subindice3">1.3 Sensor de Temperaturad y Humedad</a><li>
-         <li><a href="#subindice4">1.4 Sensor de Intensidad Luminosa</a><li>
-         <li><a href="#subindice5">1.5 Sensor de Dioxido de Carbono (CO2)</a><li>
-         <li><a href="#subindice6">1.6 Sensor del Nivel del Agua</a><li>
-         <li><a href="#subindice7">1.7 Sensor de pH y CE</a><li>
-   </ul>
-  </li>
-    <li><a href=#Referencias>Referencias</a></li>
-  </li>
- </ul>
-</div>
-
-
-
-
-
-
-<h6 id="subindice1.1"></h6>
 
 # Sistemas de vigilancia y control en la agricultura mediante técnicas de sensores inteligentes
 
