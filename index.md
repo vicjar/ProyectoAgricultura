@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://tijuana.tecnm.mx/wp-content/uploads/2018/07/logo_ITT1.png">
+  Portada
 </p>
 <h1 align="center">TECNOLÓGICO NACIONAL DE MÉXICO</h1>
 <h3 align="center">INSTITUTO TECNOLÓGICO DE TIJUANA</h3>
@@ -59,9 +60,9 @@ Rene Solis Reyes
 
 Indice
 <div class="idc-box">
-<p class="idc-titulo">Contents</p>
+<p class="idc-titulo">Contenido</p>
 <ul class="idc-lista">
- <li><a href="#Portada">1 Portada</a>
+ <li><a href="#Portada">Portada</a>
 <ul>
    <li><a href="#subindice1.1">1.1 Sistema de Vigilancia</a><li>
    <li><a href="#subindice1.2">1.2 Introduccion</a><li>
