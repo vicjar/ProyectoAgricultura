@@ -66,7 +66,7 @@ Indice
 <ul>
    <li><a href="#subindice1.1">1.1 Sistema de Vigilancia</a><li>
    <li><a href="#subindice1.2">1.2 Introduccion</a><li>
-   <li><a href="#subindice1.3">1.2 El Sistema Aeroponico</a><li>
+   <li><a href="#subindice1.3">1.3 El Sistema Aeroponico</a><li>
    
   </ul>
  </li>
@@ -98,6 +98,7 @@ el sistema debido al complicado proceso de supervisión y control manual.
 
 ![](https://agriculturers.com/wp-content/uploads/2015/02/cultivo_aeroponico_2.jpg)
 
+<h7 id="Subindice1.2">1.2</h6>
 
 # INTRODUCCION 
 
