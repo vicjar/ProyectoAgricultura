@@ -65,13 +65,15 @@ Indice
 <ul>
    <li><a href="#subindice1.1">1.1 Sistema de Vigilancia</a><li>
    <li><a href="#subindice1.2">1.2 Introduccion</a><li>
+   <li><a href="#subindice1.3">1.2 El Sistema Aeroponico</a><li>
+   
   </ul>
  </li>
 </div>
 
 
 
-<h6 id="Subindice1.1">Subindice 1.1</h6>
+<h6 id="Subindice1.1">1.1</h6>
 
 # Sistemas de vigilancia y control en la agricultura mediante técnicas de sensores inteligentes
 
