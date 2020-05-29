@@ -49,7 +49,7 @@ Aceves Zamora Juan Antonio 16210502
 Hernandez Gambino Kevin Josafat 17211049
 </p>
 <p align="center">
-Velarde Alvarez Luis Rafael
+Velarde Alvarez Luis Rafael 16212371
 </p>
 <h5 align="center">
 MAESTRO
