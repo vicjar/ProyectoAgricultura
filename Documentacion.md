@@ -53,7 +53,7 @@ Hernandez Gambino Kevin Josafat 17211049
 Loera Rodriguez Jose Manuel  16212027
 </p>
 <p align="center">
-Velarde Alvarez Luis Rafael 16212371
+Velarde Alvarez Luis Rafael C16212371
 </p>
 <h5 align="center">
 MAESTRO
