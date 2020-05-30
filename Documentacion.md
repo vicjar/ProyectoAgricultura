@@ -50,6 +50,9 @@ Aceves Zamora Juan Antonio 16210502
 Hernandez Gambino Kevin Josafat 17211049
 </p>
 <p align="center">
+Loera Rodriguez Jose Manuel  16212027
+</p>
+<p align="center">
 Velarde Alvarez Luis Rafael 16212371
 </p>
 <h5 align="center">
